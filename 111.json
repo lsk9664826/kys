@@ -1,10 +1,39 @@
 {"wallpaper":"https://mpimg.cn/view.php/e82f8a1356e0090c4e726a4fb021057a.jpg",
 "logo":"https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
-"spider":"./jar.php?id=ou&ou=公众号机缘巧盒凯弟;md5;03de898e3f99d08349bec421ebc8f506",
+"spider":"./11.jar",
   "sites": [
-    {"key": "演唱会","name": "🅰️演唱会┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/演唱会.json"}, 
-{"key": "戏曲","name": "🅰️戏曲┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/戏曲合集.json"},
-{"key": "MV","name": "🌈歌曲┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/歌曲MV.json"}
+   {
+      "key": "现代",
+      "name": "现代┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXx4ZHlzLnZpcHhkeXMudmlwfHhkeXMudmlweGR5cy52aXB8MTEz"
+    },
+    {
+      "key": "优质",
+      "name": "优质┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
+    },
+    {
+      "key": "客星",
+      "name": "客星┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
+    },
+    {
+      "key": "木叶",
+      "name": "木叶┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "saHR0cDovLzE1Ni4yMjUuMzAuNjU6Nzc4OHw2dmF4am40dmJrcmhzenA4fDZ2YXhqbjR2YmtyaHN6cDh8MTAw"
+    }
   ],
 
   "ijk": [
