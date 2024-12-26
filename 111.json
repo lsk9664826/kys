@@ -1,7 +1,22 @@
 {"wallpaper":"https://mpimg.cn/view.php/e82f8a1356e0090c4e726a4fb021057a.jpg",
 "logo":"https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
 "spider":"./11.jar",
-  "sites": [
+  "sites": [{
+      "key": "Wexbaipiao",
+      "name": "🎇星星┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexbaipiao",
+      "searchable": 1,
+      "changeable": 1
+    },
+ {
+      "key": "新6V",
+      "name": "🛩️新6V┃P2P🛩",
+      "type": 3,
+      "api": "csp_WexXb6v",
+      "searchable": 1,
+      "changeable": 0
+    },
     {
       "key": "剧评",
       "name": "剧评┃App",
