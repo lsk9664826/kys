@@ -2,13 +2,13 @@
 "logo":"https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
 "spider":"./11.jar",
   "sites": [
-   {
-      "key": "现代",
-      "name": "现代┃App",
+    {
+      "key": "剧评",
+      "name": "剧评┃App",
       "type": 3,
-      "api": "csp_Xdai",
+      "api": "csp_Jpys",
       "playerType": 1,
-      "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXx4ZHlzLnZpcHhkeXMudmlwfHhkeXMudmlweGR5cy52aXB8MTEz"
+      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
     },
     {
       "key": "优质",
